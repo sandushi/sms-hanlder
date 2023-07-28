@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "sms_otp"
+  org = "orgq5xbj"
+  version = "0.1.0"
+
