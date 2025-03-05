@@ -4,6 +4,6 @@
 [package]
   distribution = "2201.6.0"
   name = "sms_otp"
-  org = "orgq5xbj"
+  org = "sandushistage"
   version = "0.1.0"
 
